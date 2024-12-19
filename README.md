@@ -1,0 +1,1 @@
+This repository contains a demonstration of an unexpected behavior in a Tcl procedure that utilizes the 'expr' command within an 'if/else' statement. The unexpected behavior occurs when the 'expr' command is embedded within the 'else' branch of the conditional statement.
